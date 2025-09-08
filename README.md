@@ -22,3 +22,17 @@ This project was created as part of a programming assignment to demonstrate Pyth
    cd student-grade-calculator
 2. Run the program:
 python grade_calculator.py
+
+## 🎥 Screencast Overview
+
+As part of this project, I recorded a 3–5 minute video demonstrating:
+
+1. Running the program from the terminal.
+
+2. Walking through the code in VS Code.
+
+3. Explaining how dictionaries, loops, and conditionals work in the project.
+
+4. Showing how averages, letter grades, and statistics are calculated.
+
+👉 Watch the demo here: https://youtu.be/etISM70hjsQ
