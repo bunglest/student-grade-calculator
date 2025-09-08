@@ -20,3 +20,5 @@ This project was created as part of a programming assignment to demonstrate Pyth
    ```bash
    git clone https://github.com/bunglest/student-grade-calculator.git
    cd student-grade-calculator
+2. Run the program:
+python grade_calculator.py
